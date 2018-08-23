@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartConfig</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tvApSsidTitle">SSID: </string>
+    <string name="tvPasswordTitle">password: </string>
+    <string name="switchIsSsidHiddenTitle">SSID is Hidden</string>
+    <string name="spinnerTaskResultCountTitle">Task result count</string>
+    <string name="btnConfirmTitle">Confirm</string>
+</resources>
